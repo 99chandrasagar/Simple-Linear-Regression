@@ -1,4 +1,4 @@
-# Simple-Linear-Regression
+# 1) Simple-Linear-Regression
 LabCapsule 2 Linear _ Polynomial Regression
 
 Simple Linear Regression is a linear approach to modeling the relationship between single independent variable with one dependent variable. It finds a linear funcion that maps dependent variable y as a function of independent variable x. (Wikipedia)
